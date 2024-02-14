@@ -31,8 +31,15 @@ https://www.notion.so/7693693c07d549649c62f434affaf30c?pvs=21
 ### 프로젝트 주요 기능
 
 시연 영상
+1. 경기 생성
+https://github.com/fms-chukguwang/.github/assets/39757235/3f58b40c-07f0-432f-8ddf-2cb969f0847b
 
-[]()
+2. 경기 이메일 수락
+https://github.com/fms-chukguwang/.github/assets/39757235/279991ba-c77d-4dfd-b00d-b00c5d8f8e2f
+
+3. 경기 전술 설정
+https://github.com/fms-chukguwang/.github/assets/39757235/9760a34f-b461-45c9-9450-603f295dc96f
+
 
 1. **팀 관리**
 ![2](https://github.com/fms-chukguwang/.github/assets/39757235/d55ebd53-ea01-42df-a7d7-d487c83f7c86)
@@ -45,20 +52,14 @@ https://www.notion.so/7693693c07d549649c62f434affaf30c?pvs=21
 3. **일정 및 전술 관리**
 ![4](https://github.com/fms-chukguwang/.github/assets/39757235/e69d85eb-4bfd-400c-9acc-f2c13d35cc8a)
 
+4. **경기 결과 관리**
+![5](https://github.com/fms-chukguwang/.github/assets/39757235/baeaf529-524b-4406-b389-d2577ef17cc2)
 
-4. **선수 및 통계 관리**
-![5](https://github.com/fms-chukguwang/.github/assets/39757235/896be24e-a316-48e4-914e-4de88fb294cb)
-
-
-5. **경기 결과 관리**
+5. **채팅 및 실시간 알림**
 ![6](https://github.com/fms-chukguwang/.github/assets/39757235/40eaf581-9cdb-4004-b5b5-786b4220fbea)
 
-
-6. **채팅 및 실시간 알림**
+6. **어드민 페이지**
 ![7](https://github.com/fms-chukguwang/.github/assets/39757235/4123b4bf-82c2-42a4-bcb0-334b30189cce)
-
-7. **어드민 페이지**
-![8](https://github.com/fms-chukguwang/.github/assets/39757235/ab366943-bac0-4261-bb72-9b91d9a0f8b0)
 
 ### 트러블 슈팅
 
