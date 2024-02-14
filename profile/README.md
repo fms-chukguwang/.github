@@ -20,14 +20,6 @@ https://www.notion.so/7693693c07d549649c62f434affaf30c?pvs=21
 ![Untitled](https://github.com/fms-chukguwang/.github/assets/39757235/0c2d14f2-ece3-46f7-a806-c047fcbe55f2)
 
 
-### 기술적 의사결정
-
-| 선택 기술 | 선택이유 및 근거 |
-| --- | --- |
-| Github Actions | - 지속적인 통합/지속적인 배포 (CI/CD) 구축을 통해 효율적이고 일관된 배포 및 테스트 프로세스를 구현하고자 함
-
-
-
 ### 프로젝트 주요 기능
 
 1. **팀 관리**
