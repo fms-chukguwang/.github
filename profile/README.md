@@ -1,6 +1,6 @@
 # 축구왕
 
-![Copy of Copy of fms 유저 테스트](https://github.com/fms-chukguwang/.github/assets/39757235/e557b6d7-684e-401f-ae83-93beede4b0ff)
+   ![Copy of Copy of fms 유저 테스트](https://github.com/fms-chukguwang/.github/assets/39757235/e557b6d7-684e-401f-ae83-93beede4b0ff)
 
 ### **프로젝트 소개**
 
