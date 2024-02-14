@@ -30,24 +30,12 @@ https://www.notion.so/7693693c07d549649c62f434affaf30c?pvs=21
 
 ### 프로젝트 주요 기능
 
-시연 영상
-1. 경기 생성
-https://github.com/fms-chukguwang/.github/assets/39757235/3f58b40c-07f0-432f-8ddf-2cb969f0847b
-
-2. 경기 이메일 수락
-https://github.com/fms-chukguwang/.github/assets/39757235/279991ba-c77d-4dfd-b00d-b00c5d8f8e2f
-
-3. 경기 전술 설정
-https://github.com/fms-chukguwang/.github/assets/39757235/9760a34f-b461-45c9-9450-603f295dc96f
-
-
 1. **팀 관리**
 ![2](https://github.com/fms-chukguwang/.github/assets/39757235/d55ebd53-ea01-42df-a7d7-d487c83f7c86)
 
 
 2. **선수 및 통계 관리**
 ![3](https://github.com/fms-chukguwang/.github/assets/39757235/7c588357-66c4-498e-a554-e6514e6686fd)
-
 
 3. **일정 및 전술 관리**
 ![4](https://github.com/fms-chukguwang/.github/assets/39757235/e69d85eb-4bfd-400c-9acc-f2c13d35cc8a)
