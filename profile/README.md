@@ -46,7 +46,7 @@ https://www.notion.so/7693693c07d549649c62f434affaf30c?pvs=21
 ### 트러블 슈팅
 - **통계 데이터 부화**
 
-- **데이터 인덱싱 및 최적화**
+- **데이터 인덱싱 및 최적화**
     
     문제점: 멤버 검색 할때 속도가 느림
     
@@ -54,7 +54,7 @@ https://www.notion.so/7693693c07d549649c62f434affaf30c?pvs=21
     
     관련 깃허브 리포지토리: https://github.com/fms-chukguwang/index-testing
     
-- **MongoDB를 이용한 로그 관리**
+- **MongoDB를 이용한 로그 관리**
     
     문제점: 로그를 파일로 저장해서 관리의 어려움. 로그 파일을 사용하는 의미x
  
