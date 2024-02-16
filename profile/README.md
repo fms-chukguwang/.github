@@ -44,7 +44,7 @@ https://www.notion.so/7693693c07d549649c62f434affaf30c?pvs=21
 ![7](https://github.com/fms-chukguwang/.github/assets/39757235/4123b4bf-82c2-42a4-bcb0-334b30189cce)
 
 ### 트러블 슈팅
-- **통계 데이터 부화**
+- **통계 데이터 부하**
 
 - **데이터 인덱싱 및 최적화**
     
