@@ -14,9 +14,6 @@
 
 **백엔드** : https://github.com/fms-chukguwang/football_management_system
 
-### 팀원 소개
-
-https://www.notion.so/7693693c07d549649c62f434affaf30c?pvs=21
 
 ### 서비스 아키텍처
 ![Untitled](https://github.com/fms-chukguwang/.github/assets/39757235/0c2d14f2-ece3-46f7-a806-c047fcbe55f2)
