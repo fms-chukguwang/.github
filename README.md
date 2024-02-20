@@ -25,7 +25,8 @@
 
 ## 2. ⚙️ 서비스 아키텍쳐
 
-![image](https://github.com/HoyeongJeon/security/assets/78394999/6d6a031d-a6ef-46bf-9b00-927781f18d1f)
+![fms-tech-used drawio (2)](https://github.com/fms-chukguwang/.github/assets/39757235/9abf906a-10f4-4c4f-9945-2aefc25c9f7a)
+
 
 ## 3. 𓊳 ERD 다이어그램
 
