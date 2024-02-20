@@ -1,4 +1,5 @@
 # 축구왕 - 대용량 트래픽 관리를 위한 Football Management System (FMS) **⚽🔥**
+![1 (1)](https://github.com/fms-chukguwang/.github/assets/39757235/88b7bc7f-cf9f-4423-9c57-a98e7ad90e9a)
 
 ## 0. 목차
 
@@ -32,15 +33,10 @@
 ## 4. 𓊳 ERD 다이어그램
 
 ---
-
-<details>
-<summary>가독성을 위해 간소화한 ERD</summary>
-<div markdown="1">
+가독성을 위해 간소화한 ERD
 
 ![image](https://github.com/HoyeongJeon/security/assets/78394999/cd328130-aa07-4a29-b577-0f95213c39d8)
 
-</div>
-</details>
 
 ## 5. ⚔️ 기술적 의사결정
 
