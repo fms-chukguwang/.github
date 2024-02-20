@@ -18,13 +18,10 @@
 
 지역 기반 축구 커뮤니티 및 팀 관리 플랫폼. 지역 팀 모집, 경기 일정 및 결과 기록, 선수 통계, 소셜 기능, 실시간 업데이트로 축구팀을 효율적으로 관리 하세요!
 
-**Service Link** : https://www.fms-chukguwang.site/
-
-**Notion Link :** [https://www.notion.so/b972006f1c854d748e138ec260b04c84](https://www.notion.so/b972006f1c854d748e138ec260b04c84?pvs=21)        
-
-**프론트** : https://github.com/fms-chukguwang/fms_react
-
-**백엔드** : https://github.com/fms-chukguwang/football_management_system                                      
+  ### [🔥서비스 링크 바로가기](https://www.fms-chukguwang.site/)
+  ### [🔥팀 노션 바로가기](https://www.notion.so/b972006f1c854d748e138ec260b04c84?pvs=21)
+  ### [⚽프론트엔드 깃허브 바로가기](https://github.com/fms-chukguwang/fms_react)
+  ### [⚽백엔드 깃허브 바로가기](https://github.com/fms-chukguwang/football_management_system)                                        
 
 ## 2. ⚙️ 서비스 아키텍쳐
 
