@@ -1,4 +1,4 @@
-# 축구왕 - 대용량 트래픽 관리를 위한 Football Management System (FMS) **⚽🔥**
+# 축구왕 - 대용량 트래픽 관리를 위한 Football Management System (FMS) **⚽**
 ![1 (1)](https://github.com/fms-chukguwang/.github/assets/39757235/88b7bc7f-cf9f-4423-9c57-a98e7ad90e9a)
 
 ## 0. 목차
