@@ -20,9 +20,11 @@
 
 **Service Link** : https://www.fms-chukguwang.site/
 
-**GitHub Link** : https://github.com/fms-chukguwang
+**Notion Link :** [https://www.notion.so/b972006f1c854d748e138ec260b04c84](https://www.notion.so/b972006f1c854d748e138ec260b04c84?pvs=21)        
 
-**Notion Link :** [https://www.notion.so/b972006f1c854d748e138ec260b04c84](https://www.notion.so/b972006f1c854d748e138ec260b04c84?pvs=21)                                              
+**프론트** : https://github.com/fms-chukguwang/fms_react
+
+**백엔드** : https://github.com/fms-chukguwang/football_management_system                                      
 
 ## 2. ⚙️ 서비스 아키텍쳐
 
